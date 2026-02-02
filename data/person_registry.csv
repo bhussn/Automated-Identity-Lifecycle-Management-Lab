@@ -1,0 +1,11 @@
+tuftsID,firstName,lastName,role,department,status
+1001,Alice,Chen,Student,Engineering,Active
+1002,Bob,Martinez,Staff,IT,Active
+1003,Carol,Nguyen,Faculty,Arts,Active
+1004,David,Kim,Staff,HR,Terminated
+1005,Elena,Rossi,Staff,Finance,Active
+1006,Fatima,Al-Sayed,Student,Computer Science,Active
+1007,George,Okoye,Faculty,Medicine,Active
+1008,Hannah,Levin,Staff,Library,Active
+1009,Ibrahim,Hassan,Contractor,Facilities,Active
+1010,Julia,Santos,Student,Biology,Active
